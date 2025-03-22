@@ -4,7 +4,7 @@
 🖊 Grounded on the principles of human-centred design<br>
 💖 I continuously strive for growth in my craft with my heart wide open<br>
 🍦 I'm always up for a chat over ice cream, coffee or tea<br>
-📬 Feel free to <a href="https://rrrrrai.com/about" target="_blank">reach out</a>!
+📬 Feel free to <a href="https://rai.fyi" target="_blank">reach out</a>!
 
 <!---
 rrrrrai/rrrrrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
